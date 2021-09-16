@@ -7,3 +7,4 @@
 - Слайдер с картинками на всю щирину экрана.
 - Интерактивная доска с изменением цвета и произвольным размером.
 - Игра-кликер "Aim-game"
+```Примечание: все проекты запускаються через расширение [live-server-forVsCode].(https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)```
